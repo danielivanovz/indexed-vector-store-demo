@@ -1,0 +1,3 @@
+python_dotenv
+langchain
+sentence_transformers
